@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\services\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\services\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\dtos\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\dtos\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\dtos\\getnotesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\dtos\\getnotesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\dtos\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\dtos\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\dtos\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\dtos\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\dtos\\updatenoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\dtos\\updatenoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\002_notes_app_01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\002_notes_app_01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\dtos\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\dtos\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\dtos\\getnotesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\dtos\\getnotesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\dtos\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\dtos\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_01\\002_notes_app_01\\002_notes_app_01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83AE3ED7-CA30-4BF4-A408-6D7C515FA803}|002_Notes_App_01\\002_Notes_App_01.csproj|solutionrelative:002_notes_app_01\\002_notes_app_01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,81 +78,130 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Program.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_01\\Program.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Program.cs",
+              "RelativeToolTip": "002_Notes_App_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:40:33.875Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Services\\NoteService.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_01\\Services\\NoteService.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Services\\NoteService.cs",
+              "RelativeToolTip": "002_Notes_App_01\\Services\\NoteService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T04:47:38.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INoteService.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Services\\INoteService.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_01\\Services\\INoteService.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Services\\INoteService.cs",
+              "RelativeToolTip": "002_Notes_App_01\\Services\\INoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T04:45:06.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_01\\DTOs\\PagedResponse.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\PagedResponse.cs",
+              "RelativeToolTip": "002_Notes_App_01\\DTOs\\PagedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:28:49.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateNoteRequest.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\UpdateNoteRequest.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_01\\DTOs\\UpdateNoteRequest.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\UpdateNoteRequest.cs",
+              "RelativeToolTip": "002_Notes_App_01\\DTOs\\UpdateNoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:25:14.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateNoteRequest.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\CreateNoteRequest.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_01\\DTOs\\CreateNoteRequest.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\CreateNoteRequest.cs",
+              "RelativeToolTip": "002_Notes_App_01\\DTOs\\CreateNoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:24:13.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NotesController.cs",
               "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Controllers\\NotesController.cs",
               "RelativeDocumentMoniker": "002_Notes_App_01\\Controllers\\NotesController.cs",
               "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Controllers\\NotesController.cs",
               "RelativeToolTip": "002_Notes_App_01\\Controllers\\NotesController.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAuwHsAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T07:30:48.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PagedResponse.cs",
-              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\PagedResponse.cs",
-              "RelativeDocumentMoniker": "002_Notes_App_01\\DTOs\\PagedResponse.cs",
-              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\PagedResponse.cs",
-              "RelativeToolTip": "002_Notes_App_01\\DTOs\\PagedResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T07:28:49.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorResponse.cs",
-              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\ErrorResponse.cs",
-              "RelativeDocumentMoniker": "002_Notes_App_01\\DTOs\\ErrorResponse.cs",
-              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\ErrorResponse.cs",
-              "RelativeToolTip": "002_Notes_App_01\\DTOs\\ErrorResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T07:27:56.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "GetNotesQuery.cs",
               "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\GetNotesQuery.cs",
               "RelativeDocumentMoniker": "002_Notes_App_01\\DTOs\\GetNotesQuery.cs",
               "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\GetNotesQuery.cs",
               "RelativeToolTip": "002_Notes_App_01\\DTOs\\GetNotesQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T07:26:19.182Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_01\\DTOs\\ErrorResponse.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\ErrorResponse.cs",
+              "RelativeToolTip": "002_Notes_App_01\\DTOs\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:27:56.018Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UpdateNoteRequest.cs",
-              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\UpdateNoteRequest.cs",
-              "RelativeDocumentMoniker": "002_Notes_App_01\\DTOs\\UpdateNoteRequest.cs",
-              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\UpdateNoteRequest.cs",
-              "RelativeToolTip": "002_Notes_App_01\\DTOs\\UpdateNoteRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_01\\Models\\Note.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Models\\Note.cs",
+              "RelativeToolTip": "002_Notes_App_01\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T07:25:14.764Z"
+              "WhenOpened": "2026-04-13T07:19:23.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateNoteRequest.cs",
-              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\CreateNoteRequest.cs",
-              "RelativeDocumentMoniker": "002_Notes_App_01\\DTOs\\CreateNoteRequest.cs",
-              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\DTOs\\CreateNoteRequest.cs",
-              "RelativeToolTip": "002_Notes_App_01\\DTOs\\CreateNoteRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T07:24:13.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "002_Notes_App_01.csproj",
               "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\002_Notes_App_01.csproj",
               "RelativeDocumentMoniker": "002_Notes_App_01\\002_Notes_App_01.csproj",
@@ -149,18 +210,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-13T07:21:12.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Note.cs",
-              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Models\\Note.cs",
-              "RelativeDocumentMoniker": "002_Notes_App_01\\Models\\Note.cs",
-              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_01\\002_Notes_App_01\\Models\\Note.cs",
-              "RelativeToolTip": "002_Notes_App_01\\Models\\Note.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T07:19:23.165Z"
             }
           ]
         }

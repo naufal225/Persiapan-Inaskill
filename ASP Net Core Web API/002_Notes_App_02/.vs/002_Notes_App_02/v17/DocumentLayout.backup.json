@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_02\\002_notes_app_02\\dtos\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|solutionrelative:002_notes_app_02\\dtos\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_02\\002_notes_app_02\\dtos\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|solutionrelative:002_notes_app_02\\dtos\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_02\\002_notes_app_02\\dtos\\getnotesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|solutionrelative:002_notes_app_02\\dtos\\getnotesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_02\\002_notes_app_02\\dtos\\updatenoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|solutionrelative:002_notes_app_02\\dtos\\updatenoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_02\\002_notes_app_02\\dtos\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|solutionrelative:002_notes_app_02\\dtos\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_02\\002_notes_app_02\\002_notes_app_02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|solutionrelative:002_notes_app_02\\002_notes_app_02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|d:\\persiapan_inaskill\\asp net core web api\\002_notes_app_02\\002_notes_app_02\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD04B19-5804-4CF4-B3FB-9D22E6D79F47}|002_Notes_App_02\\002_Notes_App_02.csproj|solutionrelative:002_notes_app_02\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\DTOs\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_02\\DTOs\\ErrorResponse.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\DTOs\\ErrorResponse.cs",
+              "RelativeToolTip": "002_Notes_App_02\\DTOs\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T14:32:24.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetNotesQuery.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\DTOs\\GetNotesQuery.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_02\\DTOs\\GetNotesQuery.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\DTOs\\GetNotesQuery.cs",
+              "RelativeToolTip": "002_Notes_App_02\\DTOs\\GetNotesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T14:30:35.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\DTOs\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_02\\DTOs\\PagedResponse.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\DTOs\\PagedResponse.cs",
+              "RelativeToolTip": "002_Notes_App_02\\DTOs\\PagedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T14:29:23.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateNoteRequest.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\DTOs\\UpdateNoteRequest.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_02\\DTOs\\UpdateNoteRequest.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\DTOs\\UpdateNoteRequest.cs",
+              "RelativeToolTip": "002_Notes_App_02\\DTOs\\UpdateNoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T14:28:25.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateNoteRequest.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\DTOs\\CreateNoteRequest.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_02\\DTOs\\CreateNoteRequest.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\DTOs\\CreateNoteRequest.cs",
+              "RelativeToolTip": "002_Notes_App_02\\DTOs\\CreateNoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T14:27:34.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "002_Notes_App_02",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\002_Notes_App_02.csproj",
+              "RelativeDocumentMoniker": "002_Notes_App_02\\002_Notes_App_02.csproj",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\002_Notes_App_02.csproj",
+              "RelativeToolTip": "002_Notes_App_02\\002_Notes_App_02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-15T14:27:19.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "002_Notes_App_02\\Models\\Note.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_02\\002_Notes_App_02\\Models\\Note.cs",
+              "RelativeToolTip": "002_Notes_App_02\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T14:26:03.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

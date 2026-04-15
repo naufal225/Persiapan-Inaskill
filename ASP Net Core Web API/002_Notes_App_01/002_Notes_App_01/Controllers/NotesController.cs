@@ -1,6 +1,8 @@
 ﻿using _002_Notes_App_01.DTOs;
 using _002_Notes_App_01.Models;
+using _002_Notes_App_01.Services;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace _002_Notes_App_01.Controllers
@@ -9,61 +11,32 @@ namespace _002_Notes_App_01.Controllers
     [ApiController]
     public class NotesController : ControllerBase
     {
-        private static List<Note> _notes = new List<Note>();
-        private static int _nextId = 1;
+        private readonly INoteService _noteService;
+
+        public NotesController(INoteService noteService)
+        {
+            _noteService = noteService;
+        }
 
         [HttpGet]
         public ActionResult<PagedResponse<Note>> GetAll([FromQuery] GetNotesQuery query)
         {
             if(query.Page < 1)
             {
-                BadRequest("Page must be greater or equal to 1.");
+                return BadRequestError("Page must be greater or equal to 1.");
             }
 
             if(query.PageSize < 1)
             {
-                BadRequest("Page size must be grater or equal to 1.");
+                return BadRequestError("Page size must be grater or equal to 1.");
             }
 
             if(query.PageSize > 100)
             {
-                BadRequest("Page size cannot be grater than 100.");
+                return BadRequestError("Page size cannot be grater than 100.");
             }
 
-            IEnumerable<Note> notesQuery = _notes;
-
-            if(!string.IsNullOrWhiteSpace(query.Search))
-            {
-                string keyword = query.Search.Trim().ToLower();
-
-                notesQuery = notesQuery.Where(
-                    note => note.Title.Contains(keyword) ||
-                    note.Content.Contains(keyword)
-                );
-            }
-
-            notesQuery = query.Sort.ToLower() switch
-            {
-                "asc" => notesQuery.OrderBy(note => note.CreatedAt),
-                "desc" => notesQuery.OrderByDescending(note => note.CreatedAt),
-                _ => notesQuery.OrderByDescending(note => note.CreatedAt)
-            };
-
-            int totalItems = notesQuery.Count();
-            int totalPages = (int)Math.Ceiling(totalItems / (double)query.PageSize);
-
-            List<Note> notes = notesQuery.Skip((query.Page - 1) * query.PageSize)
-                .Take(query.PageSize)
-                .ToList();
-
-            PagedResponse<Note> response = new()
-            {
-                PageSize = query.PageSize,
-                Items = notes,
-                TotalItems = totalItems,
-                Page = query.Page,
-                TotalPage = totalPages
-            };
+            PagedResponse<Note> response = _noteService.GetAll(query);
 
             return Ok(response);
         }
@@ -71,10 +44,10 @@ namespace _002_Notes_App_01.Controllers
         [HttpGet("{id}")]
         public ActionResult<Note> GetById(int id)
         {
-            Note? note = _notes.Find(note => note.Id == id);
+            Note? note = _noteService.GetById(id);
             if (note == null)
             {
-                return NotFound($"Note with id {id} was not found");
+                return NotFoundError($"Note with id {id} was not found");
             }
 
             return Ok(note);
@@ -85,52 +58,68 @@ namespace _002_Notes_App_01.Controllers
         {
             if(string.IsNullOrWhiteSpace(request.Title))
             {
-                return BadRequest("Title cannot be empty or whitespace");
+                return BadRequestError("Title cannot be empty or whitespace");
             }
 
-            if(string.IsNullOrEmpty(request.Content))
+            if(string.IsNullOrWhiteSpace(request.Content))
             {
-                return BadRequest("Content cannot be empty or whitespace");
+                return BadRequestError("Content cannot be empty or whitespace");
             }
 
-            Note note = new()
-            {
-                Id = _nextId++,
-                Title = request.Title,
-                Content = request.Content,
-                CreatedAt = DateTime.UtcNow,
-                UpdatedAt = DateTime.UtcNow
-            };
+            Note note = _noteService.Create(request);
 
-            return Ok(note);
+            return CreatedAtAction(nameof(GetById), new { id = note.Id}, note);
         }
 
         [HttpPut("{id}")]
         public ActionResult<Note> Update(int id, UpdateNoteRequest request)
         {
-            Note? note = _notes.Find(note => note.Id == id);
-            if (note == null)
-            {
-                return BadRequest($"Note with id {id} cannot be found");
-            }
-
             if(string.IsNullOrWhiteSpace(request.Title))
             {
-                return BadRequest($"Title cannot be empty or whitespace");
+                return BadRequestError($"Title cannot be empty or whitespace");
             }
 
             if (string.IsNullOrWhiteSpace(request.Content))
             {
-                return BadRequest($"Content cannot be empty or whitespace");
+                return BadRequestError($"Content cannot be empty or whitespace");
             }
 
-            note.Title = request.Title;
-            note.Content = request.Content;
-            note.UpdatedAt = DateTime.UtcNow;
+            Note? note = _noteService.Update(id, request);
+            if (note == null)
+            {
+                return NotFoundError($"Note with id {id} cannot be found");
+            }
 
             return Ok(note);
         }
 
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
+        {
+            bool delete = _noteService.Delete(id);
 
+            if(!delete)
+            {
+                return NotFoundError($"Note with id {id} not found.");
+            }
+
+            return NoContent();
+        }
+
+        private NotFoundObjectResult NotFoundError(string message)
+        {
+            return NotFound(new ErrorResponse
+            {
+                Message = message
+            });
+        }
+
+        private BadRequestObjectResult BadRequestError(string message)
+        {
+            return BadRequest(new ErrorResponse
+            {
+                Message = message
+            });
+        }
     }
 }

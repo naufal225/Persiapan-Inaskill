@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nns4IHMviiY=",
+  "success": true,
+  "projectFilePath": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\002_Notes_App_03\\002_Notes_App_03\\002_Notes_App_03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naufal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\Naufal\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

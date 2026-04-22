@@ -1,0 +1,9 @@
+D:\Persiapan_Inaskill\ASP Net Core Web API\003_Notes_API_Database_01\003_Notes_API_Database_01\obj\Debug\net9.0\003_Notes_API_Database_01.csproj.AssemblyReference.cache
+D:\Persiapan_Inaskill\ASP Net Core Web API\003_Notes_API_Database_01\003_Notes_API_Database_01\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Persiapan_Inaskill\ASP Net Core Web API\003_Notes_API_Database_01\003_Notes_API_Database_01\obj\Debug\net9.0\003_Notes_API_Database_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Persiapan_Inaskill\ASP Net Core Web API\003_Notes_API_Database_01\003_Notes_API_Database_01\obj\Debug\net9.0\003_Notes_API_Database_01.AssemblyInfoInputs.cache
+D:\Persiapan_Inaskill\ASP Net Core Web API\003_Notes_API_Database_01\003_Notes_API_Database_01\obj\Debug\net9.0\003_Notes_API_Database_01.AssemblyInfo.cs
+D:\Persiapan_Inaskill\ASP Net Core Web API\003_Notes_API_Database_01\003_Notes_API_Database_01\obj\Debug\net9.0\003_Notes_API_Database_01.csproj.CoreCompileInputs.cache
+D:\Persiapan_Inaskill\ASP Net Core Web API\003_Notes_API_Database_01\003_Notes_API_Database_01\obj\Debug\net9.0\003_Notes_API_Database_01.MvcApplicationPartsAssemblyInfo.cs
+D:\Persiapan_Inaskill\ASP Net Core Web API\003_Notes_API_Database_01\003_Notes_API_Database_01\obj\Debug\net9.0\003_Notes_API_Database_01.MvcApplicationPartsAssemblyInfo.cache
+D:\Persiapan_Inaskill\ASP Net Core Web API\003_Notes_API_Database_01\003_Notes_API_Database_01\obj\Debug\net9.0\003_Notes_API_Database_01.sourcelink.json

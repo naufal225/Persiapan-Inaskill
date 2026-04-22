@@ -1,0 +1,6 @@
+@_003_Notes_API_Database_01_HostAddress = http://localhost:5079
+
+GET {{_003_Notes_API_Database_01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

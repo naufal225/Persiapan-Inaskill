@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\005_expense_tracker_api_01\\005_expense_tracker_api_01\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|solutionrelative:005_expense_tracker_api_01\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\005_expense_tracker_api_01\\005_expense_tracker_api_01\\services\\impl\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|solutionrelative:005_expense_tracker_api_01\\services\\impl\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\005_expense_tracker_api_01\\005_expense_tracker_api_01\\dtos\\gettransactionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|solutionrelative:005_expense_tracker_api_01\\dtos\\gettransactionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\005_expense_tracker_api_01\\005_expense_tracker_api_01\\dtos\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|solutionrelative:005_expense_tracker_api_01\\dtos\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\005_expense_tracker_api_01\\005_expense_tracker_api_01\\dtos\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|solutionrelative:005_expense_tracker_api_01\\dtos\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\005_expense_tracker_api_01\\005_expense_tracker_api_01\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|solutionrelative:005_expense_tracker_api_01\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\005_expense_tracker_api_01\\005_expense_tracker_api_01\\dtos\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|solutionrelative:005_expense_tracker_api_01\\dtos\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\005_expense_tracker_api_01\\005_expense_tracker_api_01\\dtos\\updatetransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|solutionrelative:005_expense_tracker_api_01\\dtos\\updatetransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\005_expense_tracker_api_01\\005_expense_tracker_api_01\\services\\itransactionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|solutionrelative:005_expense_tracker_api_01\\services\\itransactionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\005_expense_tracker_api_01\\005_expense_tracker_api_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|solutionrelative:005_expense_tracker_api_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|d:\\persiapan_inaskill\\asp net core web api\\005_expense_tracker_api_01\\005_expense_tracker_api_01\\dtos\\summaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB903F6D-DAD2-48CA-83F7-FBC1505D5560}|005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01.csproj|solutionrelative:005_expense_tracker_api_01\\dtos\\summaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\Services\\Impl\\TransactionService.cs",
+              "RelativeDocumentMoniker": "005_Expense_Tracker_API_01\\Services\\Impl\\TransactionService.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\Services\\Impl\\TransactionService.cs",
+              "RelativeToolTip": "005_Expense_Tracker_API_01\\Services\\Impl\\TransactionService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:40:34.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTransactionQuery.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\GetTransactionQuery.cs",
+              "RelativeDocumentMoniker": "005_Expense_Tracker_API_01\\DTOs\\GetTransactionQuery.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\GetTransactionQuery.cs",
+              "RelativeToolTip": "005_Expense_Tracker_API_01\\DTOs\\GetTransactionQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T00:48:32.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "005_Expense_Tracker_API_01\\Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "005_Expense_Tracker_API_01\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAA4wG4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T00:27:20.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "005_Expense_Tracker_API_01\\DTOs\\ErrorResponse.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\ErrorResponse.cs",
+              "RelativeToolTip": "005_Expense_Tracker_API_01\\DTOs\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T00:29:58.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaginatedResponse.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\PaginatedResponse.cs",
+              "RelativeDocumentMoniker": "005_Expense_Tracker_API_01\\DTOs\\PaginatedResponse.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\PaginatedResponse.cs",
+              "RelativeToolTip": "005_Expense_Tracker_API_01\\DTOs\\PaginatedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T00:48:27.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTransactionRequest.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\CreateTransactionRequest.cs",
+              "RelativeDocumentMoniker": "005_Expense_Tracker_API_01\\DTOs\\CreateTransactionRequest.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\CreateTransactionRequest.cs",
+              "RelativeToolTip": "005_Expense_Tracker_API_01\\DTOs\\CreateTransactionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T00:36:00.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateTransactionRequest.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\UpdateTransactionRequest.cs",
+              "RelativeDocumentMoniker": "005_Expense_Tracker_API_01\\DTOs\\UpdateTransactionRequest.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\UpdateTransactionRequest.cs",
+              "RelativeToolTip": "005_Expense_Tracker_API_01\\DTOs\\UpdateTransactionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T00:48:18.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "005_Expense_Tracker_API_01\\Models\\Transaction.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\Models\\Transaction.cs",
+              "RelativeToolTip": "005_Expense_Tracker_API_01\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T00:40:48.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITransactionsService.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\Services\\ITransactionsService.cs",
+              "RelativeDocumentMoniker": "005_Expense_Tracker_API_01\\Services\\ITransactionsService.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\Services\\ITransactionsService.cs",
+              "RelativeToolTip": "005_Expense_Tracker_API_01\\Services\\ITransactionsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T00:48:10.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\Program.cs",
+              "RelativeDocumentMoniker": "005_Expense_Tracker_API_01\\Program.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\Program.cs",
+              "RelativeToolTip": "005_Expense_Tracker_API_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T00:48:59.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SummaryResponse.cs",
+              "DocumentMoniker": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\SummaryResponse.cs",
+              "RelativeDocumentMoniker": "005_Expense_Tracker_API_01\\DTOs\\SummaryResponse.cs",
+              "ToolTip": "D:\\Persiapan_Inaskill\\ASP Net Core Web API\\005_Expense_Tracker_API_01\\005_Expense_Tracker_API_01\\DTOs\\SummaryResponse.cs",
+              "RelativeToolTip": "005_Expense_Tracker_API_01\\DTOs\\SummaryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T00:22:40.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

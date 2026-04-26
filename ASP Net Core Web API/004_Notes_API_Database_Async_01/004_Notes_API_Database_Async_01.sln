@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Notes_API_Database_Async_01", "004_Notes_API_Database_Async_01\004_Notes_API_Database_Async_01.csproj", "{7AAB04C0-A5B3-4E5A-9EC1-1CCA71B16ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AAB04C0-A5B3-4E5A-9EC1-1CCA71B16ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAB04C0-A5B3-4E5A-9EC1-1CCA71B16ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAB04C0-A5B3-4E5A-9EC1-1CCA71B16ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAB04C0-A5B3-4E5A-9EC1-1CCA71B16ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {663D7A73-BDD8-4781-B2A4-60B40D9CAAE8}
+	EndGlobalSection
+EndGlobal

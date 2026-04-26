@@ -23,7 +23,7 @@ namespace _003_Notes_API_Database_01.Services.Impl
 
             if(!string.IsNullOrWhiteSpace(query.Search))
             {
-                string keyword = query.Search.Trim().ToLower();
+                string keyword = query.Search.Trim();
 
                 notesQuery = notesQuery.Where(note =>
                     note.Title.Contains(keyword, StringComparison.OrdinalIgnoreCase) ||
@@ -31,7 +31,7 @@ namespace _003_Notes_API_Database_01.Services.Impl
                 );
             }
 
-            notesQuery = query.Sort switch
+            notesQuery = query.Sort.ToLower() switch
             {
                 "asc" => notesQuery.OrderBy(note => note.CreatedAt),
                 _ => notesQuery.OrderByDescending(note => note.CreatedAt)
@@ -80,7 +80,33 @@ namespace _003_Notes_API_Database_01.Services.Impl
 
         public Note? Update(int id, UpdateNoteRequest request)
         {
+            Note? note = _dbContext.Notes.FirstOrDefault(note => note.Id == id);
+            if (note == null)
+            {
+                return null;
+            }
 
+            note.Title = request.Title.Trim();
+            note.Content = request.Content.Trim();
+            note.UpdatedAt = DateTime.UtcNow;
+
+            _dbContext.SaveChanges();
+
+            return note;
+        }
+
+        public bool Delete(int id)
+        {
+            Note? note = _dbContext.Notes.FirstOrDefault(note => note.Id == id);
+            if(note == null)
+            {
+                return false;
+            }
+
+            _dbContext.Notes.Remove(note);
+            _dbContext.SaveChanges();
+
+            return true;
         }
 
 
